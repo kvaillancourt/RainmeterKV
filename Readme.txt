@@ -1,3 +1,5 @@
+Rainmeter is a desktop customization tool for Windows. For more information and downloads, visit rainmeter.net.
+
 - Add this to the Variables.inc file
 
 //PictureBox Variables
